@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "norm.mcsh.io",
-    "port": 13160,
+    "port": 10796,
     "version": "1.21.1",
     "try-creative": false
   },
